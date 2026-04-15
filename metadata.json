@@ -1,0 +1,6 @@
+{
+  "name": "SkyOptima: Airline Crew Optimizer",
+  "description": "A sophisticated crew pairing and rostering optimization tool for regional airlines, featuring automated scheduling, constraint validation, and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
